@@ -11,19 +11,32 @@ Methods: I used the Pandas library in Python for data cleaning and analysis. I a
 
 Step by step process:
 •	Importing and reading of the data
+
 •	Statistical overview of the data: mean, median, percentiles, etc.
+
 •	Identifying and handling missing values
+
 •	Counting of missing values in each column
+
 •	Checking of correct data format
+
 •	Basic Data visualization
+
+
 •	Saving the new file in CSV format.
 
 In addition, I used PowerBI in creating dashboards for advanced visualization.
 
 Conclusions:
+
 	65.10% of the sample population are diabetic. 34.90% of the sample population are not diabetic.
+
 	Glucose, blood pressure, and insulin levels have higher tendencies to increase with age.
+
 	The measure of skin thickness does not correlate with possible health risks.
+
 	A high Body Mass Index (BMI) shows a high probability of being diabetic.
+
 	A greater number of populations between age 41 and 60 have diabetes.
+
 	People with a higher number of pregnancies have a higher probability of being diabetic.
